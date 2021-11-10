@@ -32,7 +32,7 @@ In this exercise it was decided to use the PurgeCSS tool, which is used to elimi
 ### Built With
 
 * [HTML5](https://developer.mozilla.org/en/docs/Web/HTML)
-* [Bootstrap](https://getbootstrap.com/)
+* [Bootstrap 5](https://getbootstrap.com/)
 * [SASS](https://sass-lang.com/documentation)
 * [Mobile frist](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Responsive/Mobile_first)
 * [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
